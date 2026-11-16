@@ -1,7 +1,7 @@
 /**
  * Problema: Inserción en Lista Enlazada
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Resuelve el problema usando una lista doble propia.
  */

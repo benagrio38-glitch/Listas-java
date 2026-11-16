@@ -1,7 +1,7 @@
 /**
  * Problema: Supermercado
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Lista doble propia que mantiene los productos ordenados de mayor a menor precio.
  */

@@ -1,7 +1,7 @@
 /**
  * Problema: Cajas de dulces
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Nodo de la lista simple; guarda los dulces de una caja.
  */

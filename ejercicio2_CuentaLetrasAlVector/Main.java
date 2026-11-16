@@ -1,7 +1,7 @@
 /**
  * Problema: cuenta_letras_al_vector
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Cuenta cuántas veces aparece cada letra usando una lista simple propia.
  */

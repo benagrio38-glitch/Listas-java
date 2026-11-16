@@ -1,7 +1,7 @@
 /**
  * Problema: Inserción en Lista Enlazada
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Lista doble propia que inserta un -1 antes de cada número impar.
  */

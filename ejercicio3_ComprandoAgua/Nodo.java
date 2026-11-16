@@ -1,7 +1,7 @@
 /**
  * Problema: Comprando agua
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Nodo de la lista simple; guarda el precio de una marca de agua.
  */

@@ -1,7 +1,7 @@
 /**
  * Problema: Derdenio y sus Estructuras de Datos
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Lista doble propia que permite mezclar dos listas ordenadas
  * y recorrerse de atrás hacia adelante.

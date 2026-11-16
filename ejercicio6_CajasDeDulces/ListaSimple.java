@@ -1,7 +1,7 @@
 /**
  * Problema: Cajas de dulces
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Lista simple propia con las cajas del estante, en orden.
  */

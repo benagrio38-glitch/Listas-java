@@ -1,7 +1,7 @@
 /**
  * Problema: Supermercado
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Nodo de la lista doble; guarda un producto y su precio.
  */

@@ -1,7 +1,7 @@
 /**
  * Problema: Cuadro de Honor
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Imprime en orden alfabético a los alumnos con promedio de 9.5 o más,
  * usando una lista simple propia.

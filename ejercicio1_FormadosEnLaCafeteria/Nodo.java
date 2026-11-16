@@ -1,7 +1,7 @@
 /**
  * Problema: Formados en la cafetería
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Nodo de la lista simple; guarda el nombre de una persona formada.
  */

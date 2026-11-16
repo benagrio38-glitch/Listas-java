@@ -1,7 +1,7 @@
 /**
  * Problema: Formados en la cafetería
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Resuelve el problema usando dos listas simples propias como colas,
  * una para trabajadores y otra para alumnos.

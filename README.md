@@ -3,7 +3,7 @@ Implementación de Listas en Java (U2EP1 Ejercicios Tarea Listas)
 
 ## Datos del estudiante
 - **Nombre:** Oscar Manuel Ayala Ortiz
-- **Grupo:** ________
+- **Grupo:** GTID244
 - **Asignatura:** Estructuras de datos
 - **Docente:** Gabriel Barrón Rodríguez
 - **Fecha:** 15 de noviembre de 2026

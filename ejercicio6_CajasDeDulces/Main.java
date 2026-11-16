@@ -1,7 +1,7 @@
 /**
  * Problema: Cajas de dulces
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Calcula la máxima suma de K cajas seguidas usando una lista simple propia.
  */

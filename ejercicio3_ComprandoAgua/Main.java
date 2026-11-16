@@ -1,7 +1,7 @@
 /**
  * Problema: Comprando agua
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Encuentra el precio más bajo usando una lista simple propia.
  */

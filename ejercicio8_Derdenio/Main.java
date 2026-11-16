@@ -1,7 +1,7 @@
 /**
  * Problema: Derdenio y sus Estructuras de Datos
  * Autor: Oscar Manuel Ayala Ortiz
- * Grupo: ________
+ * Grupo: GTID244
  * Fecha: 15/11/2026
  * Descripción: Combina dos listas ordenadas y las imprime de mayor a menor
  * usando una lista doble propia.
