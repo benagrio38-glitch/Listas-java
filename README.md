@@ -161,7 +161,3 @@ También se puede usar un archivo de entrada:
 ```
 java Main < entrada.txt
 ```
-
-## Cómo subirlo a omegaUp
-
-omegaUp solo acepta un archivo. Se copian las clases `Nodo` y `ListaSimple` (o `ListaDoble`) dentro de `Main.java`, debajo de la clase `Main`, y se les quita la palabra `public` (solo `Main` puede ser `public`). Los `import` van hasta arriba del archivo.
